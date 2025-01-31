@@ -13,7 +13,7 @@ Below are the predictions using Seasonal ARIMA model with R2 score of 0.64 (whic
 
 ![Seasonal ARIMA Predictions](https://github.com/rizkyfernanda/P1--Simple-Forex-Regression/blob/main/graphs/3-arima.png)
 
-For the next step, we might apply a Neural Network / LSTM to the ARIMA model for iteratively improving the prediction trend.
+For the next step, I might apply a Neural Network / LSTM to the ARIMA model for iteratively improving the prediction trend.
 
 # Dataset
 
