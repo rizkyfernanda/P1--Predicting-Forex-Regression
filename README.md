@@ -12,7 +12,7 @@ Below are the predictions using Linear Regression model with R2 score of 0.44. T
 
 ![Linear Regression Predictions](https://github.com/rizkyfernanda/P1--Simple-Forex-Regression/blob/main/graphs/2-linear.png)
 
-Below are the predictions using Seasonal ARIMA model with R2 score of 0.64 (which means might be potentially more accurate compared to using Linear Regression). This graph has predicted that EUR-IDR rates will reach Rp20,000 faster compared to what the Linear Regression model had predicted.
+Below are the predictions using Seasonal ARIMA model with R2 score of 0.64 (which means might be potentially more accurate compared to using Linear Regression). This graph has predicted that **EUR-IDR rates will reach Rp20,000 faster** compared to what the Linear Regression model had predicted.
 
 ![Seasonal ARIMA Predictions](https://github.com/rizkyfernanda/P1--Simple-Forex-Regression/blob/main/graphs/3-arima.png)
 
