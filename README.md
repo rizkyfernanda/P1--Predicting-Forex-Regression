@@ -2,7 +2,7 @@
 
 ![Current EUR-IDR Exchange Rates](https://github.com/rizkyfernanda/P1--Simple-Forex-Regression/blob/main/graphs/COLOURBOX63861798.jpg)
 
-A general consensus states that the EUR-IDR rates will increase over time. Using Linear Regression model and Seasonal ARIMA model, I have predicted what would be the rates for years to come (2026 to 2030).
+Being an Indonesian citizen, we generally knew that the EUR-IDR rates will increase over time. Using Linear Regression model and Seasonal ARIMA model, I have predicted what would be the rates for years to come (2026 to 2030).
 
 Below are the current rates.
 
